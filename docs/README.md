@@ -17,3 +17,5 @@ Some content
 *Italics Content*
 
 [page](other.md)
+
+[page2](temp/temp2/lalakis.md)
