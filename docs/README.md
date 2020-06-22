@@ -17,3 +17,7 @@ Some content
 *Italics Content*
 
 [link test](www.google.com)
+
+[other link](TEST_PAGE.md)
+
+[other link](./test2/TEST_PAGE_IN_FOLDER.md)
