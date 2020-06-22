@@ -10,7 +10,7 @@
 
 ### Solution
 
-:mag: [Commands Breakdown](#the-cat-command)
+🔍 [Commands Breakdown](#the-cat-command)
 
 :memo: [Solution Snippet](#the-cat-command)
 
