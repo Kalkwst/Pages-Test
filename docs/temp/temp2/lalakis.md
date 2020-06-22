@@ -1,5 +1,5 @@
 # Bandit Solutions 0 through 10
-
+<!-- TOC -->autoauto- [Bandit Solutions 0 through 10](#bandit-solutions-0-through-10)auto    - [Bandit 0](#bandit-0)auto        - [Solution](#solution)auto            - [The cat Command])auto                - [Displaying File Contents](#displaying-file-contents)autoauto<!-- /TOC -->
 ## Bandit 0
 
 > **Level Goal**
@@ -9,6 +9,10 @@
 > for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 ### Solution
+
+:mag: [Commands Breakdown](#the-cat-command)
+
+:memo: [Solution Snippet](#the-cat-command)
 
 #### The cat Command
 
