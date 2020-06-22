@@ -15,3 +15,5 @@ Some content
 **Bold Content**
 
 *Italics Content*
+
+[page](other.md)
