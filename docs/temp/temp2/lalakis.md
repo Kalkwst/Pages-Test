@@ -10,10 +10,6 @@
 
 ### Solution
 
-🔍 [Commands Breakdown](#the-cat-command)
-
-:memo: [Solution Snippet](#the-cat-command)
-
 #### The cat Command
 
 The `cat` command is probably the most widely used command in Linux. This command can be used to read and con**cat**enate files (this feature gives the command its name), writing its contents to the standard output.
@@ -29,3 +25,15 @@ For example, the following command will display the contents of the `/etc/readme
 cat /etc/issue
 ```
 
+Now, in order to get the password, we just need to display the contents of the **readme.txt** file.
+
+```shell
+# Connect to the game user using ssh
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+# Print the contents of the file in the STDOUT
+cat ./readme
+```
+
+And the password is:
+*boJ9jbbUNNfktd78OOpsqOltutMc3MY1*
