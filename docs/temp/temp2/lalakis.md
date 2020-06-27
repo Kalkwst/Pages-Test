@@ -1,14 +1,4 @@
-
-
-<!-- TOC depthTo:2 -->
-
-- [The cat Command](#the-cat-command)
-- [The ls Command](#the-ls-command)
-- [The find Command](#the-find-command)
-- [The grep Command](#the-grep-command)
-- [The sort Command](#the-sort-command)
-
-<!-- /TOC -->
+# Trest
 
 ## The cat Command
 
