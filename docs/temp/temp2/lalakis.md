@@ -1,10 +1,4 @@
----
-title: Over The Wire - Useful Commands 
-published: false
-description: 
-tags: 
-//cover_image: https://direct_url_to_image.jpg
----
+
 
 <!-- TOC depthTo:2 -->
 
